@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>proyecto I</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>lines,blur,fade,fly,stack,stack_vertical</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>768</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/epsilon/</ImageTemplate>
+            <ImageTemplateName>Epsilon</ImageTemplateName>
+            <ImageWidth>1024</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>3</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto</TemplateFont>
+            <TemplateName>epsilon</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/205px-Rene_Descartes_statue.jpg</url>
+                <title>Estatua</title>
+                <filesize>18854</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/220px-Descartes3.jpg</url>
+                <title>Escrtitos</title>
+                <filesize>27347</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/220px-Maison_de_René_DESCARTES_-_Jean-Charles_GUILLO.jpg</url>
+                <title>Hogar</title>
+                <filesize>10656</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/220px-René_Descartes_i_samtal_med_Sveriges_drottning,_Kristina.jpg</url>
+                <title>Reunion</title>
+                <filesize>17777</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/220px-Utrecht_Weenix_Descartes.jpg</url>
+                <title>Posando</title>
+                <filesize>9932</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/229px-'Basket_of_Apples'_by_Levi_Wells_Prentice,_Dayton_Art_Institute.jpg</url>
+                <title>Pinturita</title>
+                <filesize>21882</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/242px-Statue_de_René_DESCARTES_-_Jean-Charles_GUILLO.jpg</url>
+                <title>Otra estatua</title>
+                <filesize>21205</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/descarga.jpg</url>
+                <title>Pose</title>
+                <filesize>4458</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/escribiendo.jpg</url>
+                <title>Libritos</title>
+                <filesize>8640</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/gg.jpg</url>
+                <title>Maquina</title>
+                <filesize>10321</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/MechaDuck.png</url>
+                <title>MechaDuck</title>
+                <filesize>57554</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/Principia_philosophiae.tif.png</url>
+                <title>Principio de la filosofia</title>
+                <filesize>109159</filesize>
+            </Image>
+            <Image>
+                <url>D:/WEB/Informatica/Rene Descartes/Estructura web/imagenes/statua.jpg</url>
+                <title>Y otra estatua</title>
+                <filesize>6862</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
